@@ -1,12 +1,12 @@
 <%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
+<meta charset="UTF-8">
 <title>kisunghoon</title>
 </head>
 <body>
-<h1>첫 깃허브ki</h1>
+<h1>泥� 源껎뿀釉똩i</h1>
 </body>
 </html>
